@@ -90,3 +90,7 @@ body {
   color: var(--primary--Cyan);
   cursor: pointer;
 }
+
+.text--color--light {
+  color: var(--primary--soft--blue);
+}
