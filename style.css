@@ -37,3 +37,7 @@ body {
   padding: 2vw;
   width: 24vw;
 }
+
+.image_container {
+  position: relative;
+}
