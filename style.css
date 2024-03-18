@@ -99,3 +99,12 @@ body {
   display: flex;
   justify-content: space-between;
 }
+
+.nft_price {
+  display: flex;
+  color: var(--primary--Cyan);
+}
+.nft_price > img {
+  align-self: center;
+  padding-right: 0.5vw;
+}
