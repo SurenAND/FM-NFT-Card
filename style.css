@@ -81,3 +81,7 @@ body {
   flex-direction: column;
   gap: 1vw;
 }
+
+.nft_name {
+  color: var(--seconfary--white);
+}
