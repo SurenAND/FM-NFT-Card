@@ -65,6 +65,11 @@ body {
   transition: opacity 0.5s;
 }
 
+.image_container:hover .overlay {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
 .view_icon {
   color: white;
   font-size: 24px;
