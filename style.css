@@ -8,3 +8,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --primary--soft--blue: hsl(215, 51%, 70%);
+  --primary--Cyan: hsl(178, 100%, 50%);
+  --very--dark--blue: hsl(217, 54%, 11%);
+  --dark--blue: hsl(216, 50%, 16%);
+  --secondary--blue: hsl(215, 32%, 27%);
+  --seconfary--white: hsl(0, 0%, 100%);
+}
