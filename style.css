@@ -85,3 +85,8 @@ body {
 .nft_name {
   color: var(--seconfary--white);
 }
+
+.nft_name:hover {
+  color: var(--primary--Cyan);
+  cursor: pointer;
+}
