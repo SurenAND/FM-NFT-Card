@@ -117,3 +117,32 @@ body {
   align-self: center;
   padding-right: 0.5vw;
 }
+
+span {
+  color: var(--seconfary--white);
+  transition: color 0.5;
+}
+span:hover {
+  color: var(--primary--Cyan);
+  cursor: pointer;
+}
+
+.creator_info {
+  display: flex;
+}
+
+.creator_img {
+  border: 1px solid var(--seconfary--white);
+  border-radius: 18px;
+  width: 36px;
+}
+
+.creator_name {
+  align-self: center;
+  padding-left: 0.8vw;
+}
+
+hr {
+  border: none;
+  border-top: 0.2px solid var(--seconfary--white);
+}
