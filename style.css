@@ -17,3 +17,11 @@
   --secondary--blue: hsl(215, 32%, 27%);
   --seconfary--white: hsl(0, 0%, 100%);
 }
+
+body {
+  background-color: var(--dark--blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
