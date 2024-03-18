@@ -94,3 +94,8 @@ body {
 .text--color--light {
   color: var(--primary--soft--blue);
 }
+
+.nft_detail {
+  display: flex;
+  justify-content: space-between;
+}
