@@ -41,3 +41,11 @@ body {
 .image_container {
   position: relative;
 }
+
+.nft_image {
+  border-radius: 1vw;
+  display: block;
+  height: auto;
+  width: 20vw;
+  z-index: 1;
+}
