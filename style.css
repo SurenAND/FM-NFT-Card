@@ -108,3 +108,12 @@ body {
   align-self: center;
   padding-right: 0.5vw;
 }
+
+.nft_time {
+  display: flex;
+}
+
+.nft_time > img {
+  align-self: center;
+  padding-right: 0.5vw;
+}
